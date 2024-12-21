@@ -1,0 +1,5 @@
+Text,Predicted Label
+This is a critical system alert.,POSITIVE
+The weather is sunny today.,POSITIVE
+I love programming in Python.,POSITIVE
+The stock market is volatile.,NEGATIVE
